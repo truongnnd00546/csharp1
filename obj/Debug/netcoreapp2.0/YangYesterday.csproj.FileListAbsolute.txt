@@ -1,0 +1,44 @@
+/Users/xuanhung/RiderProjects/YangYesterday/YangYesterday/bin/Debug/netcoreapp2.0/YangYesterday.deps.json
+/Users/xuanhung/RiderProjects/YangYesterday/YangYesterday/bin/Debug/netcoreapp2.0/YangYesterday.runtimeconfig.json
+/Users/xuanhung/RiderProjects/YangYesterday/YangYesterday/bin/Debug/netcoreapp2.0/YangYesterday.runtimeconfig.dev.json
+/Users/xuanhung/RiderProjects/YangYesterday/YangYesterday/bin/Debug/netcoreapp2.0/YangYesterday.dll
+/Users/xuanhung/RiderProjects/YangYesterday/YangYesterday/bin/Debug/netcoreapp2.0/YangYesterday.pdb
+/Users/xuanhung/RiderProjects/YangYesterday/YangYesterday/obj/Debug/netcoreapp2.0/YangYesterday.csprojAssemblyReference.cache
+/Users/xuanhung/RiderProjects/YangYesterday/YangYesterday/obj/Debug/netcoreapp2.0/YangYesterday.csproj.CoreCompileInputs.cache
+/Users/xuanhung/RiderProjects/YangYesterday/YangYesterday/obj/Debug/netcoreapp2.0/YangYesterday.AssemblyInfoInputs.cache
+/Users/xuanhung/RiderProjects/YangYesterday/YangYesterday/obj/Debug/netcoreapp2.0/YangYesterday.AssemblyInfo.cs
+/Users/xuanhung/RiderProjects/YangYesterday/YangYesterday/obj/Debug/netcoreapp2.0/YangYesterday.dll
+/Users/xuanhung/RiderProjects/YangYesterday/YangYesterday/obj/Debug/netcoreapp2.0/YangYesterday.pdb
+C:\Users\LAPTOP\Documents\Visual Studio 2017\project\YangYesterday\YangYesterday\bin\Debug\netcoreapp2.0\YangYesterday.deps.json
+C:\Users\LAPTOP\Documents\Visual Studio 2017\project\YangYesterday\YangYesterday\bin\Debug\netcoreapp2.0\YangYesterday.runtimeconfig.json
+C:\Users\LAPTOP\Documents\Visual Studio 2017\project\YangYesterday\YangYesterday\bin\Debug\netcoreapp2.0\YangYesterday.runtimeconfig.dev.json
+C:\Users\LAPTOP\Documents\Visual Studio 2017\project\YangYesterday\YangYesterday\bin\Debug\netcoreapp2.0\YangYesterday.dll
+C:\Users\LAPTOP\Documents\Visual Studio 2017\project\YangYesterday\YangYesterday\bin\Debug\netcoreapp2.0\YangYesterday.pdb
+C:\Users\LAPTOP\Documents\Visual Studio 2017\project\YangYesterday\YangYesterday\obj\Debug\netcoreapp2.0\YangYesterday.csprojAssemblyReference.cache
+C:\Users\LAPTOP\Documents\Visual Studio 2017\project\YangYesterday\YangYesterday\obj\Debug\netcoreapp2.0\YangYesterday.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\Documents\Visual Studio 2017\project\YangYesterday\YangYesterday\obj\Debug\netcoreapp2.0\YangYesterday.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\Documents\Visual Studio 2017\project\YangYesterday\YangYesterday\obj\Debug\netcoreapp2.0\YangYesterday.AssemblyInfo.cs
+C:\Users\LAPTOP\Documents\Visual Studio 2017\project\YangYesterday\YangYesterday\obj\Debug\netcoreapp2.0\YangYesterday.dll
+C:\Users\LAPTOP\Documents\Visual Studio 2017\project\YangYesterday\YangYesterday\obj\Debug\netcoreapp2.0\YangYesterday.pdb
+E:\CSharp_Project\YangYesterday\YangYesterday\YangYesterday\bin\Debug\netcoreapp2.0\YangYesterday.deps.json
+E:\CSharp_Project\YangYesterday\YangYesterday\YangYesterday\bin\Debug\netcoreapp2.0\YangYesterday.runtimeconfig.json
+E:\CSharp_Project\YangYesterday\YangYesterday\YangYesterday\bin\Debug\netcoreapp2.0\YangYesterday.runtimeconfig.dev.json
+E:\CSharp_Project\YangYesterday\YangYesterday\YangYesterday\bin\Debug\netcoreapp2.0\YangYesterday.dll
+E:\CSharp_Project\YangYesterday\YangYesterday\YangYesterday\bin\Debug\netcoreapp2.0\YangYesterday.pdb
+E:\CSharp_Project\YangYesterday\YangYesterday\YangYesterday\obj\Debug\netcoreapp2.0\YangYesterday.csprojAssemblyReference.cache
+E:\CSharp_Project\YangYesterday\YangYesterday\YangYesterday\obj\Debug\netcoreapp2.0\YangYesterday.csproj.CoreCompileInputs.cache
+E:\CSharp_Project\YangYesterday\YangYesterday\YangYesterday\obj\Debug\netcoreapp2.0\YangYesterday.AssemblyInfoInputs.cache
+E:\CSharp_Project\YangYesterday\YangYesterday\YangYesterday\obj\Debug\netcoreapp2.0\YangYesterday.AssemblyInfo.cs
+E:\CSharp_Project\YangYesterday\YangYesterday\YangYesterday\obj\Debug\netcoreapp2.0\YangYesterday.dll
+E:\CSharp_Project\YangYesterday\YangYesterday\YangYesterday\obj\Debug\netcoreapp2.0\YangYesterday.pdb
+C:\Users\truon\RiderProjects\YangYesterday\YangYesterday\YangYesterday\bin\Debug\netcoreapp2.0\YangYesterday.deps.json
+C:\Users\truon\RiderProjects\YangYesterday\YangYesterday\YangYesterday\bin\Debug\netcoreapp2.0\YangYesterday.runtimeconfig.json
+C:\Users\truon\RiderProjects\YangYesterday\YangYesterday\YangYesterday\bin\Debug\netcoreapp2.0\YangYesterday.runtimeconfig.dev.json
+C:\Users\truon\RiderProjects\YangYesterday\YangYesterday\YangYesterday\bin\Debug\netcoreapp2.0\YangYesterday.dll
+C:\Users\truon\RiderProjects\YangYesterday\YangYesterday\YangYesterday\bin\Debug\netcoreapp2.0\YangYesterday.pdb
+C:\Users\truon\RiderProjects\YangYesterday\YangYesterday\YangYesterday\obj\Debug\netcoreapp2.0\YangYesterday.csprojAssemblyReference.cache
+C:\Users\truon\RiderProjects\YangYesterday\YangYesterday\YangYesterday\obj\Debug\netcoreapp2.0\YangYesterday.csproj.CoreCompileInputs.cache
+C:\Users\truon\RiderProjects\YangYesterday\YangYesterday\YangYesterday\obj\Debug\netcoreapp2.0\YangYesterday.AssemblyInfoInputs.cache
+C:\Users\truon\RiderProjects\YangYesterday\YangYesterday\YangYesterday\obj\Debug\netcoreapp2.0\YangYesterday.AssemblyInfo.cs
+C:\Users\truon\RiderProjects\YangYesterday\YangYesterday\YangYesterday\obj\Debug\netcoreapp2.0\YangYesterday.dll
+C:\Users\truon\RiderProjects\YangYesterday\YangYesterday\YangYesterday\obj\Debug\netcoreapp2.0\YangYesterday.pdb
